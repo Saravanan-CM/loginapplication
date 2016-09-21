@@ -1,0 +1,14 @@
+html{
+    background: url("https://www.mysmartmove.com/sites/SmartMove/img/slider/secure.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+h1{
+   padding-left: 90px;
+   padding-top: 110px;
+   color: cornsilk;  
+}
+p{
+    padding-left:250px;
+    color: darksalmon;
+    size: 90px;
+}
